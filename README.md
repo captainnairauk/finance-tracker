@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the finance tracker social media app made using Rails
 
-Things you may want to cover:
+This app lets you do the following:
 
-* Ruby version
+* Create your portfolio of upto 10 stocks
 
-* System dependencies
+* Track your portfolio
 
-* Configuration
+* Allows you to add your friends
 
-* Database creation
+* Allows you to check your friend's portfolio
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* --
