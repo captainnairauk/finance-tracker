@@ -8,7 +8,7 @@ This app lets you do the following:
 
 * Track your portfolio.
 
-* Allows you to add your friends
+* Allows you to add your friends.
 
 * Allows you to check your friend's portfolio
 
