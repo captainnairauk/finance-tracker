@@ -6,7 +6,7 @@ This app lets you do the following:
 
 * Create your portfolio of upto 10 stocks..
 
-* Track your portfolio.
+* Track your portfolio..
 
 * Allows you to add your friends.
 
